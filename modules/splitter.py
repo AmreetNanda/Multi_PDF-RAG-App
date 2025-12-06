@@ -1,5 +1,3 @@
-# modules/splitter.py
-
 from langchain_classic.text_splitter import RecursiveCharacterTextSplitter
 from .config import CHUNK_SIZE, CHUNK_OVERLAP
 
