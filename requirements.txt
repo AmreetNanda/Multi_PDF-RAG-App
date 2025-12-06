@@ -1,0 +1,16 @@
+langchain
+langchain_community
+langchain-core
+langchain-classic
+ipykernel
+streamlit
+python-dotenv
+# langchain_objectbox
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
+beautifulsoup4
+pypdf2
+torch
