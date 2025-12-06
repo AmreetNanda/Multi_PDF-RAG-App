@@ -1,14 +1,3 @@
-# # modules/loader.py
-
-# from langchain_community.document_loaders import PyPDFLoader
-# from .config import PDF_PATH
-
-# def load_pdf():
-#     loader = PyPDFLoader(PDF_PATH)
-#     return loader.load()
-
-# modules/loader.py
-
 import os
 from langchain_community.document_loaders import PyPDFLoader
 from .config import PDF_UPLOAD_DIR
